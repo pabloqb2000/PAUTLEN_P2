@@ -1,3 +1,10 @@
+
+*.exe
+misalida*
+lex.yy.c
+pruebaMorfo
+pruebaMorfo*
+
 # Prerequisites
 *.d
 

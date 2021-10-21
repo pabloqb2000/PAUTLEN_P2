@@ -1,0 +1,30 @@
+// Prueba de reconocimiento de tokens
+
+// main Este token NO hay que reconocerlo
+main // Este token SI hay que reconocerlo
+{
+    int a;
+    bool b;
+    array c[6], d[8];
+    function myFuntion(a, b) {}
+
+    if(b) {
+
+    } else {
+
+    }
+
+    while(b) {
+
+    }
+
+    scanf a;
+    printf c;
+    return 0;
+
+    a = 3 + 2 - 1 / 2 * 4;
+    b = !true && false || c == d && c != d || a <= 3 || a >= 3 || a < 3 || a > 3;
+    
+    // Error de simbolo
+    :
+}
