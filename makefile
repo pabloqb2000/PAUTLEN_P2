@@ -13,7 +13,7 @@ pruebaMorfo:
 	$(CC) -o $(MAIN) $(MAIN).o $(LEX_FILE).o
 
 clean:
-	rm -rf *.o *.exe misalida* lex.yy.clean
+	rm -rf *.o *.exe misalida* lex.yy.c $(MAIN)
 
 test: pruebaMorfo
 	@printf "\n"

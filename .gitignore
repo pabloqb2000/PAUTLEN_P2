@@ -3,7 +3,8 @@
 misalida*
 lex.yy.c
 pruebaMorfo
-pruebaMorfo*
+pruebaMorfo.exe
+pruebaMorfo.o
 
 # Prerequisites
 *.d
